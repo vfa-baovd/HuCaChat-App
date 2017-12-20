@@ -1414,9 +1414,8 @@
 					};
 					F792E7F21E42145300B9B9E2 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = H4CR2L3EVK;
 						LastSwiftMigration = 0820;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -2222,8 +2221,10 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = Demo_Chat_Dev.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Huy Trac (QA8J236SC5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = H4CR2L3EVK;
+				DEVELOPMENT_TEAM = RKAGS8ZUWN;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/EZAlertController\"",
@@ -2245,10 +2246,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" \"-D\" \"CHATDEV\"";
-				PRODUCT_BUNDLE_IDENTIFIER = "asia.vifalify.Demo-Chat";
+				PRODUCT_BUNDLE_IDENTIFIER = vfa.ios.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4d4ade11-ac41-4a2b-9b7c-9518b0b3a1dd";
-				PROVISIONING_PROFILE_SPECIFIER = demo_chat;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Demo_Chat/SupportFiles/Demo_Chat-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -2263,7 +2264,9 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = Demo_Chat_Dev.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Huy Trac (QA8J236SC5)";
-				DEVELOPMENT_TEAM = H4CR2L3EVK;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RKAGS8ZUWN;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/EZAlertController\"",
@@ -2285,10 +2288,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" \"-D\" \"CHATDEV\"";
-				PRODUCT_BUNDLE_IDENTIFIER = "asia.vifalify.Demo-Chat";
+				PRODUCT_BUNDLE_IDENTIFIER = vfa.ios.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4d4ade11-ac41-4a2b-9b7c-9518b0b3a1dd";
-				PROVISIONING_PROFILE_SPECIFIER = demo_chat;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Demo_Chat/SupportFiles/Demo_Chat-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
