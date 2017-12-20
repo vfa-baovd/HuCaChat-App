@@ -1,0 +1,279 @@
+
+/* Class = "UILabel"; text = "Blocked Users"; ObjectID = "0cY-gc-bsv"; */
+"0cY-gc-bsv.text" = "Blocked Users";
+
+/* Class = "UILabel"; text = "By enabling read receipts you will see the time and date your messages are read."; ObjectID = "0y2-9L-ymW"; */
+"0y2-9L-ymW.text" = "By enabling read receipts you will see the time and date your messages are read.";
+
+/* Class = "UILabel"; text = "\"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada"; ObjectID = "1Lw-4u-K9q"; */
+"1Lw-4u-K9q.text" = "\"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada";
+
+/* Class = "UILabel"; text = "available"; ObjectID = "2On-9m-J8m"; */
+"2On-9m-J8m.text" = "available";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "2R9-VW-1Em"; */
+"2R9-VW-1Em.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Mhank - Sully"; ObjectID = "4VS-Ce-tR9"; */
+"4VS-Ce-tR9.text" = "Mhank - Sully";
+
+/* Class = "UILabel"; text = "H"; ObjectID = "4pI-5V-XOq"; */
+"4pI-5V-XOq.text" = "H";
+
+/* Class = "UILabel"; text = "song"; ObjectID = "4rz-Am-lYr"; */
+"4rz-Am-lYr.text" = "song";
+
+/* Class = "UILabel"; text = "Read Receipt"; ObjectID = "6w9-1c-O4j"; */
+"6w9-1c-O4j.text" = "Read Receipt";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7ao-F9-QPj"; */
+"7ao-F9-QPj.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "7cU-qy-OEx"; */
+"7cU-qy-OEx.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "HungNV"; ObjectID = "8LB-ZV-KQG"; */
+"8LB-ZV-KQG.text" = "HungNV";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "8h4-ML-LXn"; */
+"8h4-ML-LXn.text" = "Available";
+
+/* Class = "UILabel"; text = "By enabling last seen, the time and date you were last online will be displayed to others."; ObjectID = "9AI-Rt-KI3"; */
+"9AI-Rt-KI3.text" = "By enabling last seen, the time and date you were last online will be displayed to others.";
+
+/* Class = "UILabel"; text = "H"; ObjectID = "BG4-9b-DUz"; */
+"BG4-9b-DUz.text" = "H";
+
+/* Class = "UILabel"; text = "Song's name"; ObjectID = "BiH-Lg-yLY"; */
+"BiH-Lg-yLY.text" = "Song's name";
+
+/* Class = "UILabel"; text = "H"; ObjectID = "Cb1-dl-sMd"; */
+"Cb1-dl-sMd.text" = "H";
+
+/* Class = "UILabel"; text = "Singer's name"; ObjectID = "Clt-yJ-nTQ"; */
+"Clt-yJ-nTQ.text" = "Singer's name";
+
+/* Class = "UILabel"; text = "13"; ObjectID = "DT7-TM-Tos"; */
+"DT7-TM-Tos.text" = "13";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Dsq-WE-k2c"; */
+"Dsq-WE-k2c.text" = "English";
+
+/* Class = "UILabel"; text = "vi"; ObjectID = "EHg-HW-Uvi"; */
+"EHg-HW-Uvi.text" = "vi";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "EPl-jJ-Ine"; */
+"EPl-jJ-Ine.text" = "name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GHO-eq-1dg"; */
+"GHO-eq-1dg.text" = "Label";
+
+/* Class = "UILabel"; text = "\"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada"; ObjectID = "GM5-HO-AXb"; */
+"GM5-HO-AXb.text" = "\"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "I2E-Hk-EKd"; */
+"I2E-Hk-EKd.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Contries: "; ObjectID = "I4V-5m-EQh"; */
+"I4V-5m-EQh.text" = "Contries: ";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "JbH-7f-O0d"; */
+"JbH-7f-O0d.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Jy6-eL-YKr"; */
+"Jy6-eL-YKr.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "K3A-NT-Vde"; */
+"K3A-NT-Vde.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "17"; ObjectID = "KIK-iO-uHo"; */
+"KIK-iO-uHo.text" = "17";
+
+/* Class = "UILabel"; text = "Drama, Biography"; ObjectID = "LIb-QG-FN1"; */
+"LIb-QG-FN1.text" = "Drama, Biography";
+
+/* Class = "UILabel"; text = "\"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada"; ObjectID = "Mx5-UG-dgy"; */
+"Mx5-UG-dgy.text" = "\"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada \"Status\" akjlasdlakllaf asfsafaf asfsdada";
+
+/* Class = "UIButton"; normalTitle = "Request Access"; ObjectID = "N5e-cx-dLq"; */
+"N5e-cx-dLq.normalTitle" = "Request Access";
+
+/* Class = "UILabel"; text = "Chat Settings"; ObjectID = "OaW-Wp-iYq"; */
+"OaW-Wp-iYq.text" = "Chat Settings";
+
+/* Class = "UILabel"; text = "Online Status"; ObjectID = "OuY-Ja-b5O"; */
+"OuY-Ja-b5O.text" = "Online Status";
+
+/* Class = "UITextField"; placeholder = "Display name"; ObjectID = "Pgb-Wc-oEP"; */
+"Pgb-Wc-oEP.placeholder" = "Display name";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "Q21-Cw-v2h"; */
+"Q21-Cw-v2h.text" = "00:00";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "R0j-KS-100"; */
+"R0j-KS-100.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Or Login"; ObjectID = "RKJ-wz-oIm"; */
+"RKJ-wz-oIm.normalTitle" = "Or Login";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "RWv-9Z-TFt"; */
+"RWv-9Z-TFt.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "song"; ObjectID = "Sgj-0x-AZg"; */
+"Sgj-0x-AZg.text" = "song";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "TVm-zi-DeU"; */
+"TVm-zi-DeU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "The story of Chesley Sullenberger, who became a hero after gliding his plane along the water in the Hudson River, saving all of his 155 passengers…"; ObjectID = "Uq5-qd-d63"; */
+"Uq5-qd-d63.text" = "The story of Chesley Sullenberger, who became a hero after gliding his plane along the water in the Hudson River, saving all of his 155 passengers…";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "UwW-JF-IcM"; */
+"UwW-JF-IcM.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "8.2"; ObjectID = "Vca-F1-RxW"; */
+"Vca-F1-RxW.text" = "8.2";
+
+/* Class = "UILabel"; text = "Status Message"; ObjectID = "Vch-eu-97K"; */
+"Vch-eu-97K.text" = "Status Message";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "WNX-jG-I89"; */
+"WNX-jG-I89.text" = "name";
+
+/* Class = "UILabel"; text = "/10"; ObjectID = "XAx-yS-swL"; */
+"XAx-yS-swL.text" = "/10";
+
+/* Class = "UILabel"; text = "Nội dung chat"; ObjectID = "a5j-q0-955"; */
+"a5j-q0-955.text" = "Nội dung chat";
+
+/* Class = "UILabel"; text = "IMDB"; ObjectID = "aLS-io-KdM"; */
+"aLS-io-KdM.text" = "IMDB";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "aev-I2-Jqu"; */
+"aev-I2-Jqu.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Games"; ObjectID = "al4-fT-En4"; */
+"al4-fT-En4.text" = "Games";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "bES-Lq-Leo"; */
+"bES-Lq-Leo.text" = "Email:";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "cAc-cs-Ch8"; */
+"cAc-cs-Ch8.text" = "name";
+
+/* Class = "UILabel"; text = "The story of Chesley Sullenberger, who became a hero after gliding his plane along the water in the Hudson River, saving all of his 155 passengers…"; ObjectID = "cOo-GF-oYS"; */
+"cOo-GF-oYS.text" = "The story of Chesley Sullenberger, who became a hero after gliding his plane along the water in the Hudson River, saving all of his 155 passengers…";
+
+/* Class = "UILabel"; text = "H"; ObjectID = "caz-32-zxO"; */
+"caz-32-zxO.text" = "H";
+
+/* Class = "UILabel"; text = "Drama, Biography"; ObjectID = "d3d-6a-Vnc"; */
+"d3d-6a-Vnc.text" = "Drama, Biography";
+
+/* Class = "UILabel"; text = "H"; ObjectID = "dJJ-vt-L9S"; */
+"dJJ-vt-L9S.text" = "H";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "dKe-W9-Sta"; */
+"dKe-W9-Sta.text" = "name";
+
+/* Class = "UILabel"; text = "17"; ObjectID = "eYf-nr-Ruv"; */
+"eYf-nr-Ruv.text" = "17";
+
+/* Class = "UILabel"; text = "Last Seen"; ObjectID = "h2b-z7-zcy"; */
+"h2b-z7-zcy.text" = "Last Seen";
+
+/* Class = "UILabel"; text = "8.2"; ObjectID = "hWZ-EP-QkM"; */
+"hWZ-EP-QkM.text" = "8.2";
+
+/* Class = "UIButton"; normalTitle = "Twitter"; ObjectID = "hX7-uA-AUJ"; */
+"hX7-uA-AUJ.normalTitle" = "Twitter";
+
+/* Class = "UIButton"; normalTitle = "Let's Go!"; ObjectID = "hzu-zF-51S"; */
+"hzu-zF-51S.normalTitle" = "Let's Go!";
+
+/* Class = "UILabel"; text = "Banners, Sounds and Vibrate"; ObjectID = "i2V-uB-oxq"; */
+"i2V-uB-oxq.text" = "Banners, Sounds and Vibrate";
+
+/* Class = "UILabel"; text = "Revenue: 0.0"; ObjectID = "i6H-qE-gMu"; */
+"i6H-qE-gMu.text" = "Revenue: 0.0";
+
+/* Class = "UILabel"; text = "Drama, Biography"; ObjectID = "iey-ru-5PR"; */
+"iey-ru-5PR.text" = "Drama, Biography";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "inL-Yw-kjn"; */
+"inL-Yw-kjn.text" = "Language";
+
+/* Class = "UILabel"; text = "2 hour 24 min"; ObjectID = "jBo-Wu-KPa"; */
+"jBo-Wu-KPa.text" = "2 hour 24 min";
+
+/* Class = "UILabel"; text = "Notification Settings"; ObjectID = "kPg-E5-Wdz"; */
+"kPg-E5-Wdz.text" = "Notification Settings";
+
+/* Class = "UILabel"; text = "425"; ObjectID = "kkE-U6-5Yn"; */
+"kkE-U6-5Yn.text" = "425";
+
+/* Class = "UILabel"; text = "Mhank - Sully"; ObjectID = "lBU-kU-NcM"; */
+"lBU-kU-NcM.text" = "Mhank - Sully";
+
+/* Class = "UILabel"; text = "Mhank - Sully"; ObjectID = "lBy-9f-VLr"; */
+"lBy-9f-VLr.text" = "Mhank - Sully";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "lLi-QM-w9i"; */
+"lLi-QM-w9i.text" = "Name";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "lOY-Gp-dVF"; */
+"lOY-Gp-dVF.text" = "name";
+
+/* Class = "UILabel"; text = "Budget: 0.0"; ObjectID = "mDg-Hg-TX1"; */
+"mDg-Hg-TX1.text" = "Budget: 0.0";
+
+/* Class = "UILabel"; text = "Popularity: 0.0"; ObjectID = "mU6-i6-YTJ"; */
+"mU6-i6-YTJ.text" = "Popularity: 0.0";
+
+/* Class = "UILabel"; text = "425"; ObjectID = "mlv-5r-yaF"; */
+"mlv-5r-yaF.text" = "425";
+
+/* Class = "UILabel"; text = "Date: 1962-12-04"; ObjectID = "nWt-7x-gZT"; */
+"nWt-7x-gZT.text" = "Date: 1962-12-04";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "nWu-JU-Ge8"; */
+"nWu-JU-Ge8.text" = "7.9";
+
+/* Class = "UILabel"; text = "Nội dung chat"; ObjectID = "noW-SK-RJ3"; */
+"noW-SK-RJ3.text" = "Nội dung chat";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "p4o-ge-oky"; */
+"p4o-ge-oky.text" = "name";
+
+/* Class = "UILabel"; text = "Say something"; ObjectID = "pVv-fc-Tfa"; */
+"pVv-fc-Tfa.text" = "Say something";
+
+/* Class = "UILabel"; text = "No result"; ObjectID = "peE-el-ryk"; */
+"peE-el-ryk.text" = "No result";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "qu8-ek-zDk"; */
+"qu8-ek-zDk.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "No video"; ObjectID = "rGE-j8-dja"; */
+"rGE-j8-dja.text" = "No video";
+
+/* Class = "UILabel"; text = "Users"; ObjectID = "t07-zl-MXp"; */
+"t07-zl-MXp.text" = "Users";
+
+/* Class = "UILabel"; text = "2 hour 24 min"; ObjectID = "t13-A7-dXo"; */
+"t13-A7-dXo.text" = "2 hour 24 min";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "v1t-Ta-29n"; */
+"v1t-Ta-29n.text" = "name";
+
+/* Class = "UIButton"; normalTitle = "Request Access"; ObjectID = "wBN-pw-jPc"; */
+"wBN-pw-jPc.normalTitle" = "Request Access";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "wNx-lv-7fc"; */
+"wNx-lv-7fc.text" = "Email:";
+
+/* Class = "UILabel"; text = "17"; ObjectID = "wrE-0m-bz9"; */
+"wrE-0m-bz9.text" = "17";
+
+/* Class = "UILabel"; text = "425"; ObjectID = "zsQ-Sg-8mC"; */
+"zsQ-Sg-8mC.text" = "425";

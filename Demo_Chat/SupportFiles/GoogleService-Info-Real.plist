@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>543536995955-8nnedr2orvpa2opk074jgsvu3rsg3dgg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543536995955-8nnedr2orvpa2opk074jgsvu3rsg3dgg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7Oze0qs4Ne1sqO9AqLY3RDdreqUlNqOM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543536995955</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.github.vfahungnv.hucachat</string>
+	<key>PROJECT_ID</key>
+	<string>hucachat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hucachat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543536995955:ios:45d7ee6e5f9d2abe</string>
+	<key>DATABASE_URL</key>
+	<string>https://hucachat.firebaseio.com</string>
+</dict>
+</plist>
